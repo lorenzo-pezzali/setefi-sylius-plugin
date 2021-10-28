@@ -1,0 +1,4 @@
+suites:
+    main:
+        namespace: Lpweb\SetefiSyliusPlugin
+        psr4_prefix: Lpweb\SetefiSyliusPlugin
